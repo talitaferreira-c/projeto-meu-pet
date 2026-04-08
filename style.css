@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+    font-family: 'Kaushan', Helvetica, sans-serif;
+    background-color: rgb(247, 247, 247);
+    text-align: justify;
+}
+h1 {
+    color: #E05C4A;
+    font-family: 'Kaushan';
+    text-align: center;
+    font-size: 50px;
+}
